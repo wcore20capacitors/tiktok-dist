@@ -2,3 +2,4 @@ Create new test cases
 Summarize product goals
 Record hackathon ideas
 Update partner map
+Record prize details
