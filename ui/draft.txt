@@ -4,3 +4,4 @@ Draft testimonials list
 Summarize top requests
 List hypothesis tests
 Draft container images
+Investigate performance bottleneck
