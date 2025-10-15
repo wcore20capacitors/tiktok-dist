@@ -3,3 +3,4 @@ Summarize FX updates
 Draft release checklist
 Draft registrar tasks
 Improve modularity
+Check expiry dates
