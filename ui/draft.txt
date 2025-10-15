@@ -1,5 +1,1 @@
-Review pull requests
-Update confusion matrix
-Draft canary rollout
-Summarize candidate profiles
-Review logo sketches
+Analyze user feedback
