@@ -5,3 +5,4 @@ Draft registrar tasks
 Improve modularity
 Check expiry dates
 Record CCPA checks
+Update test matrix
