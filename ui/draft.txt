@@ -3,3 +3,4 @@ Track design iterations
 Update diagrams
 Record sign-off notes
 Draft reproducibility plan
+List hypothesis tests
