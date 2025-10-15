@@ -1,12 +1,1 @@
-Create new test cases
-Summarize product goals
-Record hackathon ideas
-Update partner map
-Record prize details
-Expand integration tests
-Summarize contract renewals
-Update FAQ section
-Summarize trade risks
-Record experiment seeds
-Record procurement steps
-Update confusion matrix
+Record user stories
