@@ -12,3 +12,4 @@ Update compatibility notes
 Summarize PCI items
 Refine backlog items
 Summarize market trends
+Record user stories
