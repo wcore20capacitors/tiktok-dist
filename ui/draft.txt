@@ -4,3 +4,4 @@ Record hackathon ideas
 Update partner map
 Record prize details
 Expand integration tests
+Summarize contract renewals
