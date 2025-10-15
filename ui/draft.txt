@@ -9,3 +9,4 @@ Update test matrix
 Draft NDA template
 Update pager duty notes
 List pending approvals
+Note investment options
