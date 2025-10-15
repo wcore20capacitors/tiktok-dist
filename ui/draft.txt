@@ -1,2 +1,1 @@
-Record user stories
-Draft consent policy
+Log regression issues
