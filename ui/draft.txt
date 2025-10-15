@@ -6,3 +6,4 @@ Record prize details
 Expand integration tests
 Summarize contract renewals
 Update FAQ section
+Summarize trade risks
