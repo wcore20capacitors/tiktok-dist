@@ -1,3 +1,1 @@
-Log regression issues
-Update confusion matrix
-Note provider options
+Document key decisions
