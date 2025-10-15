@@ -3,3 +3,4 @@ Log mitigation steps
 Draft retro notes
 Check error handling
 Draft weekly digest
+Note lessons learned
