@@ -9,3 +9,4 @@ List legal holds
 Plan rollback procedure
 Check dependencies for updates
 Update compatibility notes
+Summarize PCI items
