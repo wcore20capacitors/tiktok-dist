@@ -1,3 +1,1 @@
-Document key decisions
-Summarize funnel metrics
-List open vulnerabilities
+Note recall issues
