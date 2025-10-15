@@ -6,3 +6,4 @@ Improve modularity
 Check expiry dates
 Record CCPA checks
 Update test matrix
+Draft NDA template
