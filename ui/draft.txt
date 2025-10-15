@@ -1,3 +1,4 @@
 Adjust retry logic
 Track design iterations
 Update diagrams
+Record sign-off notes
