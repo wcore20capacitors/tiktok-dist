@@ -8,3 +8,4 @@ Summarize contract renewals
 Update FAQ section
 Summarize trade risks
 Record experiment seeds
+Record procurement steps
