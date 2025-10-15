@@ -1,2 +1,3 @@
 Analyze user feedback
 List booth designs
+Summarize candidate profiles
