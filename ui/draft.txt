@@ -4,3 +4,4 @@ Note accessibility gaps
 List shipping costs
 Summarize ROC data
 Record certification status
+Note training epochs
