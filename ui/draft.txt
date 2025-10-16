@@ -1,2 +1,3 @@
 Check localization files
 Summarize market trends
+Summarize audits
