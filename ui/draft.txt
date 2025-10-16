@@ -1,1 +1,2 @@
 Record CI/CD pipeline
+Document key decisions
