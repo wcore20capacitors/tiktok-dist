@@ -14,3 +14,4 @@ Draft feature flag list
 Prepare status email
 Adjust retry logic
 Update P&L sheet
+Draft PR highlights
