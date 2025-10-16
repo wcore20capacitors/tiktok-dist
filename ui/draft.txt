@@ -12,3 +12,4 @@ Draft opportunity list
 Review SLA metrics
 Draft feature flag list
 Prepare status email
+Adjust retry logic
