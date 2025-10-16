@@ -1,1 +1,2 @@
 Summarize adoption metrics
+Reevaluate requirements
