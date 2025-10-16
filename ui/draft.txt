@@ -1,2 +1,1 @@
-Review escalation paths
-Review caching strategy
+Prepare roadmap for Q1
