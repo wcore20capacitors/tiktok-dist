@@ -13,3 +13,4 @@ Sketch new interface ideas
 Check export rules
 Update pricing table
 List pending approvals
+Draft exploration notes
