@@ -11,3 +11,4 @@ Prepare case studies
 Draft opportunity list
 Review SLA metrics
 Draft feature flag list
+Prepare status email
