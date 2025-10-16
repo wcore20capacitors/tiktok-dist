@@ -12,3 +12,4 @@ Plan capacity increase
 List password policies
 Summarize compliance checks
 Summarize giveaway notes
+Draft mitigation guide
