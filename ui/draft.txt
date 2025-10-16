@@ -1,3 +1,4 @@
 List cluster configs
 Plan lead generation
 Note GDPR tasks
+Capture SWOT notes
