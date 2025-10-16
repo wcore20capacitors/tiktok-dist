@@ -2,3 +2,4 @@ Summarize adoption metrics
 Reevaluate requirements
 List shipping costs
 Summarize market trends
+Draft PR highlights
