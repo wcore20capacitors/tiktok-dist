@@ -11,3 +11,4 @@ Note improvement ideas
 Record conversion data
 Note trending topics
 Record key metrics
+Review WAF settings
