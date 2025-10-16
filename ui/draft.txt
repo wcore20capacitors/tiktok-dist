@@ -1,7 +1,1 @@
-Note firewall configs
-Record OKR sync
-Prepare case studies
-Record certificate renewals
-Create new test cases
-Draft forum summary
-Record hackathon ideas
+Check localization files
