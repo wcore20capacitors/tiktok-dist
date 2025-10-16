@@ -6,3 +6,4 @@ Note alignment checks
 Update ad creatives
 Record progress KPIs
 Draft mitigation guide
+Review monitoring setup
