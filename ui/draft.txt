@@ -15,3 +15,4 @@ Summarize giveaway notes
 Draft mitigation guide
 List rotation schedule
 Recheck boundary cases
+Record user stories
