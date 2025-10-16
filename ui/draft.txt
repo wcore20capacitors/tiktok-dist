@@ -4,3 +4,4 @@ List shipping costs
 Summarize market trends
 Draft PR highlights
 Update brand colors
+Analyze customer data
