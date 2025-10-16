@@ -11,3 +11,4 @@ Summarize last meeting notes
 Summarize contract renewals
 Record underfit case
 Check expiry dates
+Record sign-off notes
