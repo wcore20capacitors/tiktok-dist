@@ -1,2 +1,3 @@
 Summarize bug triage
 Summarize last meeting notes
+Capture SWOT notes
