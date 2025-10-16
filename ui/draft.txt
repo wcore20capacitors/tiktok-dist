@@ -24,3 +24,4 @@ Summarize ML metrics
 Update logging sinks
 Draft packaging guide
 Record inflation impact
+Summarize trade risks
