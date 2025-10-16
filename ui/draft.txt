@@ -4,3 +4,4 @@ Reevaluate requirements
 Record shift handovers
 Draft sponsorship deals
 Check export rules
+Draft detection rules
