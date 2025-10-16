@@ -16,3 +16,4 @@ Draft mitigation guide
 List rotation schedule
 Recheck boundary cases
 Record user stories
+Update FAQ section
