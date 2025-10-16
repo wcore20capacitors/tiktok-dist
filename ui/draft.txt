@@ -5,3 +5,4 @@ Record gradual rollout
 Record downtime reports
 Prepare presentation slides
 Record prototype feedback
+Record labeling guide
