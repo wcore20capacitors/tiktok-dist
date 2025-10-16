@@ -1,2 +1,1 @@
-Draft documentation outline
-Summarize scaling notes
+Track configuration drift
