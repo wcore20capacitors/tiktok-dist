@@ -10,3 +10,4 @@ Update threat model
 Summarize last meeting notes
 Summarize contract renewals
 Record underfit case
+Check expiry dates
