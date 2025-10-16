@@ -6,3 +6,4 @@ Draft playbook updates
 Draft mockup notes
 Draft pseudonymization plan
 Draft mockup notes
+Update CDN rules
