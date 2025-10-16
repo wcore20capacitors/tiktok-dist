@@ -1,3 +1,1 @@
-Check localization files
-Summarize market trends
-Summarize audits
+Review escalation paths
