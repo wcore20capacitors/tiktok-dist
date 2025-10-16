@@ -18,3 +18,4 @@ Recheck boundary cases
 Record user stories
 Update FAQ section
 Update changelog with details
+Refine acceptance criteria
