@@ -2,3 +2,4 @@ Note firewall configs
 Draft packaging guide
 Update role matrix
 Draft sponsorship deals
+Record event calendar
