@@ -17,3 +17,4 @@ Update P&L sheet
 Draft PR highlights
 Review SLA metrics
 List UI components
+Schedule next sprint planning
