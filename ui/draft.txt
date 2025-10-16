@@ -7,3 +7,4 @@ Check export rules
 Draft detection rules
 Summarize validation data
 List open vulnerabilities
+Plan capacity increase
