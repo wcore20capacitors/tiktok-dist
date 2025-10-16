@@ -1,3 +1,4 @@
 Summarize launch steps
 Check ISO documents
 Draft precision notes
+Update board minutes
