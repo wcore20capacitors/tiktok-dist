@@ -22,3 +22,4 @@ Summarize content audit
 Update dropout rate
 Record IDS findings
 Check clickthrough rate
+Summarize contract renewals
