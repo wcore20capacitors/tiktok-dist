@@ -16,3 +16,4 @@ List pending approvals
 Draft exploration notes
 Draft error codes
 Update supply data
+Summarize industry news
