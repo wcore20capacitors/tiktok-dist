@@ -21,3 +21,4 @@ Schedule next sprint planning
 Record conversion data
 List DR procedures
 Summarize ML metrics
+Update logging sinks
