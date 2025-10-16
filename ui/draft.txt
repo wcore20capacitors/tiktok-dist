@@ -10,3 +10,4 @@ List open vulnerabilities
 Plan capacity increase
 Plan capacity increase
 List password policies
+Summarize compliance checks
