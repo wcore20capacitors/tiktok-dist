@@ -3,3 +3,4 @@ Summarize last meeting notes
 Capture SWOT notes
 Note innovation backlog
 Record treasury notes
+Prepare closure report
