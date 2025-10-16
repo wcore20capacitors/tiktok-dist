@@ -1,3 +1,4 @@
 Note configuration changes
 Record load test data
 Summarize results
+Draft retro notes
