@@ -1,3 +1,1 @@
-Record CI/CD pipeline
-Document key decisions
-Draft staging plan
+Summarize deployment tests
