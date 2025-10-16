@@ -2,3 +2,4 @@ Record key metrics
 Record blue-green notes
 Reevaluate requirements
 Record shift handovers
+Draft sponsorship deals
