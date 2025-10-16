@@ -6,3 +6,4 @@ Draft PR highlights
 Update brand colors
 Analyze customer data
 Note winner list
+Note recall issues
