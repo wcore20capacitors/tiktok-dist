@@ -7,3 +7,4 @@ Update brand colors
 Analyze customer data
 Note winner list
 Note recall issues
+Summarize PCI items
