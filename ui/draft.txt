@@ -1,3 +1,4 @@
 Draft pseudonymization plan
 Update role matrix
 Analyze customer data
+Update migration scripts
