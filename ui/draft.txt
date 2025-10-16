@@ -23,3 +23,4 @@ Update dropout rate
 Record IDS findings
 Check clickthrough rate
 Summarize contract renewals
+Prepare status email
