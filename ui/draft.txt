@@ -1,10 +1,1 @@
-Summarize referral data
-Summarize trade risks
-List vendor options
-List open vulnerabilities
-Note alignment checks
-Update ad creatives
-Record progress KPIs
-Draft mitigation guide
-Review monitoring setup
-Check ISO documents
+Record key metrics
