@@ -1,2 +1,3 @@
 Summarize adoption metrics
 Reevaluate requirements
+List shipping costs
