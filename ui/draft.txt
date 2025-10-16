@@ -1,14 +1,1 @@
-Summarize bug triage
-Summarize last meeting notes
-Capture SWOT notes
-Note innovation backlog
-Record treasury notes
-Prepare closure report
-List hypothesis tests
-List rate limit configs
-Draft cloud budget
-Note improvement ideas
-Record conversion data
-Note trending topics
-Record key metrics
-Review WAF settings
+Update retention plan
