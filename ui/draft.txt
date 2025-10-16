@@ -9,3 +9,4 @@ Draft mockup notes
 Update CDN rules
 Prepare case studies
 Draft opportunity list
+Review SLA metrics
