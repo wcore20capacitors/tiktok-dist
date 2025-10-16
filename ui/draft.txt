@@ -7,3 +7,4 @@ Summarize testing report
 Draft social post plan
 Experiment with prototypes
 Draft NDA template
+Record procurement steps
