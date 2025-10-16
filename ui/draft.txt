@@ -3,3 +3,4 @@ List domain records
 Note training epochs
 Note DPA clauses
 Summarize traffic weights
+Summarize testing report
