@@ -5,3 +5,4 @@ List open vulnerabilities
 Note alignment checks
 Update ad creatives
 Record progress KPIs
+Draft mitigation guide
