@@ -5,3 +5,4 @@ Record shift handovers
 Draft sponsorship deals
 Check export rules
 Draft detection rules
+Summarize validation data
