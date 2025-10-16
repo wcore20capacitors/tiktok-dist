@@ -1,3 +1,4 @@
 Record labeling guide
 Note overfit warning
 Check backup status
+Record competitor scans
