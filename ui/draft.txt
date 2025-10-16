@@ -6,3 +6,4 @@ Draft accessibility review
 Validate new assumptions
 Plan capacity increase
 Check benchmark scores
+Update threat model
