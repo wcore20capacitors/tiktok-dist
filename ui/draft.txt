@@ -4,3 +4,4 @@ Capture SWOT notes
 Note innovation backlog
 Record treasury notes
 Prepare closure report
+List hypothesis tests
