@@ -9,3 +9,4 @@ Note winner list
 Note recall issues
 Summarize PCI items
 Record conversion data
+Sketch new interface ideas
