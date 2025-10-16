@@ -3,3 +3,4 @@ Note overfit warning
 Check backup status
 Record competitor scans
 Draft playbook updates
+Draft mockup notes
