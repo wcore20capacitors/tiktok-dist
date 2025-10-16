@@ -1,2 +1,3 @@
 Prepare presentation slides
 Update release notes
+Polish UI interactions
