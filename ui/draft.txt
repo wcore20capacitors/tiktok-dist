@@ -2,3 +2,4 @@ Update retention plan
 List domain records
 Note training epochs
 Note DPA clauses
+Summarize traffic weights
