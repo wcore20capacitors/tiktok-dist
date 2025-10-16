@@ -1,14 +1,1 @@
-List cluster configs
-Plan lead generation
-Note GDPR tasks
-Capture SWOT notes
-Draft accessibility review
-Validate new assumptions
-Plan capacity increase
-Check benchmark scores
-Update threat model
-Summarize last meeting notes
-Summarize contract renewals
-Record underfit case
-Check expiry dates
-Record sign-off notes
+Note firewall configs
