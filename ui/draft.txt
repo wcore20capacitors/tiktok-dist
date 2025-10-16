@@ -3,3 +3,4 @@ Summarize trade risks
 List vendor options
 List open vulnerabilities
 Note alignment checks
+Update ad creatives
