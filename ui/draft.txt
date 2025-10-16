@@ -1,2 +1,1 @@
-Summarize feedback loops
-Record arbitration steps
+Record cache purge steps
