@@ -1,7 +1,1 @@
-Summarize launch steps
-Check ISO documents
-Draft precision notes
-Update board minutes
-Brainstorm feature ideas
-Expand integration tests
-Collect metrics for dashboard
+Draft pseudonymization plan
