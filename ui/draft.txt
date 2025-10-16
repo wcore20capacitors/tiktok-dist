@@ -1,2 +1,3 @@
 Note firewall configs
 Record OKR sync
+Prepare case studies
