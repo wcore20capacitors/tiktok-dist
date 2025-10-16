@@ -7,3 +7,4 @@ Draft mockup notes
 Draft pseudonymization plan
 Draft mockup notes
 Update CDN rules
+Prepare case studies
